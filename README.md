@@ -256,9 +256,6 @@ Se encontrar problemas:
 
 ---
 
-**Desenvolvido por:** Manus AI  
-**Versão:** 1.0  
-**Data:** Outubro 2025
 
 ---
 
